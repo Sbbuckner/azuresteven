@@ -1,0 +1,2 @@
+logo=Steve Buckner
+&url=index.html
